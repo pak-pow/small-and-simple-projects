@@ -1,3 +1,5 @@
+# Made by Vee / Me
+
 import random
 
 print ("\t Welcome to Number Guessing game!")
