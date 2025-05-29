@@ -1,3 +1,31 @@
+"""
+THING TO ADD: 
+    
+    - Menu 
+        - Restart
+        - Sound
+        - Score
+    
+    - Player input 
+        - Player 1
+        - Player 2
+    
+    - Score System 
+        - Win window
+        - Lose Window
+        - Draw Window
+    
+    - Theme Window
+        - Light
+        - Dark
+        - Optional: Any color
+        
+    - Fonts (OPTIONAL)
+    
+    - Quit Window
+
+"""
+
 from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, QLabel 
 from PyQt5 import uic
 import sys
