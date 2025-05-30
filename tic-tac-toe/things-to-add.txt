@@ -1,4 +1,3 @@
-"""
 THING TO ADD: 
     
     - Menu 
@@ -24,4 +23,3 @@ THING TO ADD:
     
     - Quit Window
 
-"""
