@@ -58,8 +58,6 @@ Would you like to try again? (Y/N): y
 
 ## 🔜 In Development
 
-- 🔍 Search by city or street
-- 🗑️ Delete entry by name
 - GUI or web-based interface (future enhancement)
 
 ---
